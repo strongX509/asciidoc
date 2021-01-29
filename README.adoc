@@ -1,0 +1,10 @@
+= strongSwan Documentation
+
+== Platform Security
+
+* xref:tpm2#[Using TPM 2.0 keys with strongSwan]
+
+== Auxiliary Tools
+
+* xref:swanctl#[`*swanctl*`] configures, controls and monitors the `*charon*` IKE daemon
+* xref:pki#[`*pki*`] generates and analyzes RSA/ECDSA/EdDSA private keys and X.509 certificates
